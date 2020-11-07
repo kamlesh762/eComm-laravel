@@ -32,5 +32,15 @@
     .slider-text{
         color: #000000 !important;
     }
+    .trending-wrapper{
+        height: 100px;
+    }
+    .trending-item img{
+        float: left;
+        width: 20%;
+    }
+    .trending-wrapper {
+        margin: 20px;
+    }
 </style>
 </html>
