@@ -45,5 +45,11 @@
     .detail-img {
         height: 200px;
     }
+    .search-box {
+        width: 500px !important;
+    }
+    .search-img {
+        width: 20%;
+    }
 </style>
 </html>
